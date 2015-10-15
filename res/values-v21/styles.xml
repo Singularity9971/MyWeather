@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="BaseTheme">
+        <item name="android:colorPrimary">@color/ListBlue</item>
+        <item name="android:colorAccent">@color/Accent</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:statusBarColor">@color/WeatherBar</item>
+    </style>
+</resources>
